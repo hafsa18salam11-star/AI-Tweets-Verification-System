@@ -1,4 +1,4 @@
 # AI-Tweets-Verification-System
-An AI-powered Tweet Verification System that analyzes any tweet or text content and classifies it as Real, Fake, or Uncertain. Built using Machine Learning with a Vectorizer Model trained on 4 datasets, the system provides instant and accurate content verification.
+An AI-powered Tweet Verification System that analyzes any tweet or text content and classifies it as Real, Fake, or Uncertain. It was Built using Machine Learning with a Vectorizer Model trained on 4 datasets, the system provides instant and accurate content verification.
 Users simply enter any tweet or text into the input field and click "Verify Content".The system immediately returns a result with a Reliability Score (%) and displays it visually through a Confidence Gauge on the right panel. The System Status panel tracks the count of Fake and Uncertain results in real time.
 When content shows mixed signals, the system advises the user to be careful and verify through another source. The interface is designed with a sleek dark theme GUI that is modern, clean, and easy to use.
